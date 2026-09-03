@@ -1,8 +1,21 @@
 # Fatlum
 
-Software Systems student at the **University of Zurich**.
+**Software Systems @ University of Zurich**
 
-Interested in **software construction**, **frontend development**,  
-**automation** and **UI design**.
+I build software with a focus on simplicity, usability and good design.
 
-I enjoy building software that is simple, useful and well designed.
+`software construction` · `frontend` · `automation` · `UI/UX`
+
+---
+
+### What I care about
+
+→ building reliable software  
+→ creating clean interfaces  
+→ automating repetitive work  
+→ turning ideas into polished products
+
+### Currently
+
+Studying Software Systems at UZH  
+and building things along the way.
